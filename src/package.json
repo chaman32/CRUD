@@ -1,0 +1,16 @@
+{
+  "name": "ApiRest",
+  "version": "0.0.0",
+  "description": "ApiRest",
+  "main": "app.js",
+  "author": {
+    "name": "Alejandro",
+    "email": ""
+  },
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "method-override": "^2.3.5",
+    "mongoose": "^4.1.10"
+  }
+}
